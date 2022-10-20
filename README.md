@@ -17,7 +17,7 @@ $ pip install -r requirements.txt
 
 3. Run Apace and MySQL
 4. Create DB "login_py"
-5. Import SQL file in [SQL/login_py.sql](https://github.com/An0n341/Python-Login-System/blob/main/sql/login_py.sql)
+5. Import SQL file in [SQL/login_py.sql](sql/login_py.sql)
 6. Run "main.py" file
 ```sh
 $ python main.py
